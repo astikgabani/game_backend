@@ -1,0 +1,22 @@
+{
+  "user_email_not_confirmed": "Email not confirmed",
+  "user_login_max_count_reached": "Your all previous session has deleted as max login count has reached",
+  "user_active_sessions": "Total {} sessions are activated",
+  "user_invalid_credentials": "Invalid Credentials",
+  "user_not_found": "User not found",
+  "user_already_registered": "User already Registered",
+  "user_account_created": "Account created successfully",
+  "user_creation_failed": "Failed to create user",
+  "user_session_expired": "Session has expired",
+
+  "user_role_not_found": "Role not found",
+  "user_role_already_created": "Role already Registered",
+  "user_role_created": "Role successfully created",
+  "user_confirmation_expired": "User confirmation time has expired",
+  "user_already_confirmed": "User email has been confirmed already",
+  "user_confirmed": "User email is successfully confirmed",
+  "user_email_resend_successfully": "Email re-send successfully",
+
+  "game_not_exist": "Game is not created yet",
+  "game_already_exist": "Game is already exist"
+}
