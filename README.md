@@ -1,7 +1,7 @@
 # Game APIs
 
 - Install the requirements
-- run info: `python game_spi/wsgi.py`
+- run info: `python game_api/wsgi.py`
 - Server link: http://localhost:7000
 
 ## Endpoints
